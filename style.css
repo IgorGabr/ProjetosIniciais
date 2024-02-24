@@ -253,25 +253,6 @@
   background-repeat: no-repeat;
 }
 
-.button16 {
-  display: inline-block;
-  flex-grow: 1;
-  flex-basis: 200;
-  padding: 110px 110px;
-  margin: 5px;
-  border: 1px solid #333;
-  border-radius: 5px;
-  background-color: #f0f0f0;
-  color: #333;
-  text-align: center;
-  text-decoration: none;
-  cursor: pointer;
-  color: white;
-  background-image: url('img/github.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 body {
   background-image: url('img/fundo.jpg');
   background-size: cover;
